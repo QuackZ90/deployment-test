@@ -19,6 +19,9 @@ switch (env.toUpperCase()){
     config.baseURL = "https://QuackZ90.github.io/deployment-test";
     break;
   }
+
+  default:
+    break;
 }
 
 function App() {
