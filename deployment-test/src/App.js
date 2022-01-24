@@ -37,6 +37,9 @@ function App() {
         >
           Learn React
         </a>
+        <div>
+          <p>Environment URL: {config.baseURL}</p>
+        </div>
       </header>
     </div>
   );
